@@ -1,384 +1,332 @@
 {
-    "Sdata" : [
+    "serveses":[
         {
-          "id": "Sdata1",
-          "title": "50% Off For Your First Shopping",
-          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-1.png"
+            "id":"serves-1",
+            "title":"Free Cocktails",
+            "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         },
         {
-          "id": "Sdata2",
-          "title": "50% Off For Your First Shopping",
-          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-2.png"
+            "id":"serves-2",
+            "title":"Endless Hiking",
+            "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         },
         {
-          "id": "Sdata3",
-          "title": "50% Off For Your First Shopping",
-          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-3.png"
+            "id":"serves-3",
+            "title":"Free Shuttle",
+            "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         },
         {
-          "id": "Sdata4",
-          "title": "50% Off For Your First Shopping",
-          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-          "img": "imges/SlideCard/slide-4.png"
+            "id":"serves-4",
+            "title":"Strongest Beer",
+            "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         }
-      ],
-      "asideData":[
+    ],
+    "featured":[
         {
-          "id":"cat1",
-          "img":"imges/aside/cat-1.webp",
-          "title":"#Categories"
+            "id":"featured-1",
+            "title":"Family Deluxe",
+            "price":"$500",
+            "img":"images/room-12.jpg",
+
+            "capacity":5,
+            "pets":"Allowed",
+            "freeBrackfast":"Included",
+
+            "details":"Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+            "extras": [
+                "Plush pillows  bed linens",
+                "Soft, oversized bath towels",
+                "Full-sized, pH-balanced toiletries",
+                "Complimentary refreshments",
+                "Adequate safety/security",
+                "Internet",
+                "Comfortable beds"
+              ]            
         },
         {
-          "id":"cat2",
-          "img":"imges/aside/cat-2.webp",
-          "title":"#Discounts"
+            "id":"featured-2",
+            "title":"Dobule Deluxe",
+            "price":"$400",
+            "img":"images/room-8.jpg",
+
+            "capacity":2,
+            "pets":"Allowed",
+            "freeBrackfast":"Not Included",
+
+            "details":"Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",            
+            "extras": [
+                "Plush pillows  bed linens",
+                "Soft, small bath towels",
+                "Blacstik, pH-balanced toiletries",
+                "Sheap Complimentary",
+                "Adequate safety/security",
+                "Internet",
+                "Comfortable beds"
+              ]
         },
         {
-          "id":"cat3",
-          "img":"imges/aside/cat-3.webp",
-          "title":"#Flash"
+            "id":"featured-3",
+            "title":"Single Deluxe",
+            "price":"$300",
+            "img":"images/room-4.jpg",
+
+            "capacity":1,
+            "pets":"Not Allowed",
+            "freeBrackfast":"Not Included",
+            
+            "details":"Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",            
+            "extras": [
+                "Plush pillows bed linens",
+                "Soft, small bath towels",
+                "Blacstik, pH-balanced toiletries",
+                "Sheap Complimentary",
+                "Adequate safety/security",
+                "Internet",
+                "Comfortable beds"
+              ]
         },
         {
-          "id":"cat4",
-          "img":"imges/aside/cat1.png",
-          "title":"#Arrivals"
-        },
-        {
-          "id":"cat5",
-          "img":"imges/aside/cat2.png",
-          "title":"#Mobile"
-        },
-        {
-          "id":"cat7",
-          "img":"imges/aside/cat4.png",
-          "title":"#Us"
-        },
-        {
-          "id":"cat8",
-          "img":"imges/aside/cat5.png",
-          "title":"Pets"
-        },
-        {
-          "id":"cat9",
-          "img":"imges/aside/cat6.png",
-          "title":"Toys"
-        },
-        {
-          "id":"cat10",
-          "img":"imges/aside/cat7.png",
-          "title":"Groceries"
-        },
-        {
-          "id":"cat11",
-          "img":"imges/aside/cat8.png",
-          "title":"Books"
+            "id":"featured-4",
+            "title":"Teiple Deluxe",
+            "price":"$400",
+            "img":"images/room-8.jpg",
+
+            "capacity":2,
+            "pets":"Allowed",
+            "freeBrackfast":"Not Included",
+
+            "details":"Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",            
+            "extras": [
+                "Plush pillows  bed linens",
+                "Soft, small bath towels",
+                "Blacstik, pH-balanced toiletries",
+                "Sheap Complimentary",
+                "Adequate safety/security",
+                "Internet",
+                "Comfortable beds"
+              ]
         }
-      ],
-      "flashData": [
+    ],
+    "rooms":[
         {
-          "id": 1,
-          "discount": 50,
-          "img": "imges/flash/flash-1.webp",
-          "name": "Shoes",
-          "price": 100
+            "id":"room-1",
+            "img":"images/room-1.jpg",
+            "type":"triple all",
+            "guestsStart":10,
+            "guestsEnd":60,
+            "price":3000,
+            "size":300,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id": 2,
-          "discount": 40,
-          "img": "imges/flash/flash-2.webp",
-          "name": "Watch",
-          "price": 20
+            "id":"room-2",
+            "img":"images/room-2.jpg",
+            "type":"family all",
+            "guestsStart":3,
+            "guestsEnd":6,
+            "price":250,
+            "size":200,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id": 3,
-          "discount": 40,
-          "img": "imges/flash/flash-3.webp",
-          "name": "Smart Mobile Black",
-          "price": 200
+            "id":"room-3",
+            "img":"images/room-3.jpg",
+            "type":"double all",
+            "guestsStart":2,
+            "guestsEnd":2,
+            "price":100,
+            "size":150,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id": 4,
-          "discount": 40,
-          "img": "imges/flash/flash-4.webp",
-          "name": "Smart Watch Black",
-          "price": 50
+            "id":"room-4",
+            "img":"images/room-4.jpg",
+            "type":"single all",
+            "guestsStart":1,
+            "guestsEnd":1,
+            "price":50,
+            "size":100,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id": 5,
-          "discount": 50,
-          "img": "imges/flash/flash-5.webp",
-          "name": "Shoes",
-          "price": 100
-        }
-      ],
-      "categories" :[
-          {
-            "id":"top 1",
-            "title":"Head phone",
-            "img":"imges/categories/top-1.webp"
-          },
-          {
-            "id":"top 2",
-            "title":"Watch",
-            "img":"imges/categories/top-2.webp"
-          },
-          {
-            "id":"top 3",
-            "title":"Glasses",
-            "img":"imges/categories/top-3.webp"
-          },
-          {
-            "id":"top 4",
-            "title":"Head phone",
-            "img":"imges/categories/top-1.webp"
-          },
-          {
-            "id":"top 5",
-            "title":"Watch",
-            "img":"imges/categories/top-2.webp"
-          },
-          {
-            "id":"top 6",
-            "title":"Glasses",
-            "img":"imges/categories/top-3.webp"
-          }
-      ],
-      "arrivals":[
-        {
-          "id":"arr-1",
-          "img":"imges/arrivals/arrivals1.webp"
+            "id":"room-5",
+            "img":"images/room-5.jpg",
+            "type":"triple all", 
+            "guestsStart":20,
+            "guestsEnd":50,
+            "price":500,
+            "size":4000,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"arr-2",
-          "img":"imges/arrivals/arrivals2.webp"
+            "id":"room-6",
+            "img":"images/room-6.jpg",
+            "type":"family all",
+            "guestsStart":3,
+            "guestsEnd":10,
+            "price":470,
+            "size":300,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"arr-3",
-          "img":"imges/arrivals/arrivals3.webp"
+            "id":"room-7",
+            "img":"images/room-7.jpg",
+            "type":"double all",
+            "guestsStart":2,
+            "guestsEnd":2,
+            "price":150,
+            "size":200,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"arr-4",
-          "img":"imges/arrivals/arrivals4.webp"
+            "id":"room-8",
+            "img":"images/room-8.jpg",
+            "type":"single all",
+            "guestsStart":1,
+            "guestsEnd":1,
+            "price":100,
+            "size":120,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"arr-5",
-          "img":"imges/arrivals/arrivals5.webp"
+            "id":"room-9",
+            "img":"images/room-9.jpg",
+            "type":"triple all",
+            "guestsStart":5,
+            "guestsEnd":50,
+            "price":2000,
+            "size":300,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"arr-6",
-          "img":"imges/arrivals/arrivals6.webp"
-        }
-      ],
-      "discount":[
-        {
-          "id": "dis1",
-          "img": "imges/discounts/discount-1.webp",
-          "name": "H phone",
-          "price": 350
+            "id":"room-10",
+            "img":"images/room-10.jpg",
+            "type":"family all",
+            "guestsStart":3,
+            "guestsEnd":6,
+            "price":250,
+            "size":200,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id": "dis2",
-          "img": "imges/discounts/discount-2.webp",
-          "name": "Tv",
-          "price": 1370
+            "id":"room-11",
+            "img":"images/room-11.jpg",
+            "type":"double all",
+            "guestsStart":2,
+            "guestsEnd":2,
+            "price":100,
+            "size":150,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id": "dis3",
-          "img": "imges/discounts/discount-3.webp",
-          "name": "Ps4",
-          "price": 4500
+            "id":"room-12",
+            "img":"images/room-12.jpg",
+            "type":"single all",
+            "guestsStart":1,
+            "guestsEnd":1,
+            "price":50,
+            "size":100,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id": "dis4",
-          "img": "imges/discounts/discount-4.webp",
-          "name": "Security",
-          "price": 10000
-        },
-        {
-          "id": "dis5",
-          "img": "imges/discounts/discount-5.webp",
-          "name": "heater",
-          "price": 950
-        },
-        {
-          "id": "dis6",
-          "img": "imges/discounts/discount-6.webp",
-          "name": "kitchen",
-          "price": 22000
-        },
-        {
-          "id": "dis7",
-          "img": "imges/discounts/discount-7.webp",
-          "name": "Ranasonic",
-          "price": 1700
-        },
-        {
-          "id": "dis8",
-          "img": "imges/discounts/discount-8.webp",
-          "name": "Pune HD",
-          "price": 300
-        },
-        {
-          "id": "dis9",
-          "img": "imges/discounts/discount-7.webp",
-          "name": "CCTV",
-          "price": 80
-        }
-      ],
-      "mobileFilter":[
-        {
-          "id":"mob-filter1",
-          "img":"imges/mobileFilter/mob-1.jpg",
-          "brand":"Shawmi",
-          "title":"Shawmi"
-        },
-        {
-          "id":"mob-filter2",
-          "img":"imges/mobileFilter/mob-2.jpg",
-          "brand":"Infenix",
-          "title":"Infenix"
-        },
-        {
-          "id":"mob-filter3",
-          "img":"imges/mobileFilter/mob-3.jpg",
-          "brand":"Realme",
-          "title":"Realme"
-        },
-        {
-          "id":"mob-filter4",
-          "img":"imges/mobileFilter/mob-4.jpg",
-          "brand":"Hwawi",
-          "title":"Hwawi"
-        },
-        {
-          "id":"mob-filter5",
-          "img":"imges/mobileFilter/mob-5.jpg",
-          "brand":"Samsung",
-          "title":"Samsung"
-        },
-        {
-          "id":"mob-filter6",
-          "img":"imges/mobileFilter/mob-7.jpg",
-          "brand":"Iphone",
-          "title":"Iphone"
-        }
-      ],
-      "mobileList":[
-        {
-          "id":"mob-list1",
-          "img":"imges/mobileList/shops-1.webp",
-          "name":"aer pod",
-          "brand":"Shawmi all",
-          "price":800
-        },
-        {
-          "id":"mob-list2",
-          "img":"imges/mobileList/shops-2.webp",
-          "name":"Glaxy 3",
-          "brand":"Samsung all",
-          "price":2300
+            "id":"room-13",
+            "img":"images/details-2.jpg",
+            "type":"triple all",
+            "guestsStart":20,
+            "guestsEnd":50,
+            "price":500,
+            "size":4000,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         { 
-          "id":"mob-list3",
-          "img":"imges/mobileList/shops-3.webp",
-          "name":"R cover",
-          "brand":"Reno all",
-          "price":50
+            "id":"room-14",
+            "img":"images/details-3.jpg",
+            "type":"family all",
+            "guestsStart":3,
+            "guestsEnd":10,
+            "price":470,
+            "size":300,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"mob-list4",
-          "img":"imges/mobileList/shops-4.webp",
-          "name":"Iphone x",
-          "brand":"Iphone all",
-          "price":10000
+            "id":"room-15",
+            "img":"images/details-4.jpg",
+            "type":"double all",
+            "guestsStart":2,
+            "guestsEnd":2,
+            "price":150,
+            "size":200,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"mob-list11",
-          "img":"imges/mobileList/shops-11.webp",
-          "name":"A0 core",
-          "brand":"Hwawi all",
-          "price":2150
+            "id":"room-16",
+            "img":"images/room-5.jpg",
+            "type":"single all",
+            "guestsStart":1,
+            "guestsEnd":1,
+            "price":100,
+            "size":120,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         },
         {
-          "id":"mob-list5",
-          "img":"imges/mobileList/shops-5.webp",
-          "name":"aer pod",
-          "brand":"Iphone all",
-          "price":3000
+            "id":"room-17",
+            "img":"images/details-3.jpg",
+            "type":"triple all",
+            "guestsStart":20,
+            "guestsEnd":45,
+            "price":400,
+            "size":2300,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id":"mob-list6",
-          "img":"imges/mobileList/shops-6.webp",
-          "name":"H phone",
-          "brand":"Samsung all",
-          "price":250
+            "id":"room-18",
+            "img":"images/details-2.jpg",
+            "type":"single all",
+            "guestsStart":1,
+            "guestsEnd":1,
+            "price":600,
+            "size":400,
+            "freeMeals": [ false , false],
+            "pets": [ true , false]
         },
         {
-          "id":"mob-list7",
-          "img":"imges/mobileList/shops-7.webp",
-          "name":"not 11",
-          "brand":"Infenix all",
-          "price":2500
+            "id":"room-19",
+            "img":"images/room-10.jpg",
+            "type":"family all",
+            "guestsStart":3,
+            "guestsEnd":6,
+            "price":250,
+            "size":200,
+            "freeMeals": [ false , false],
+            "pets": [ false , false]
         },
         {
-          "id":"mob-list8",
-          "img":"imges/mobileList/shops-8.webp",
-          "name":"x 9",
-          "brand":"Realme all",
-          "price":200
-        },
-        {
-          "id":"mob-list9",
-          "img":"imges/mobileList/shops-9.webp",
-          "name":"aer pod",
-          "brand":"Shawmi all", 
-          "price":500
-        },
-        {
-          "id":"mob-list10",
-          "img":"imges/mobileList/shops-10.webp",
-          "name":"A0 core",
-          "brand":"Samsung all",
-          "price":3000
-        },
-        {
-          "id":"mob-list-two-1",
-          "img":"imges/mobileList/mob-1.png",
-          "name":"Hot 11",
-          "brand":"Infenix all",
-          "price":2300
-        },
-        {
-          "id":"mob-list-two-2",
-          "img":"imges/mobileList/mob-2.png",
-          "name":"Reno 6",
-          "brand":"Reno all",
-          "price":4200
-        },
-        {
-          "id":"mob-list-two-3",
-          "img":"imges/mobileList/mob-3.jpg",
-          "name":"Rm 9i",
-          "brand":"Realme all",
-          "price":3700
-        },
-        {
-          "id":"mob-list-two-4",
-          "img":"imges/mobileList/mob-4.jpg",
-          "name":"A2",
-          "brand":"Hwawi all",
-          "price":2900
-        },
-        {
-          "id":"mob-list-two-5",
-          "img":"imges/mobileList/mob-5.jpg",
-          "name":"Rm 7",
-          "brand":"Realme all",
-          "price":2900
+            "id":"room-20",
+            "img":"images/room-11.jpg",
+            "type":"double all",
+            "guestsStart":2,
+            "guestsEnd":2,
+            "price":400,
+            "size":250,
+            "freeMeals": [ true , false],
+            "pets": [ true , false]
         }
-      ]
-
+    ]    
 }
