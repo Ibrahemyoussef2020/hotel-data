@@ -1,0 +1,384 @@
+{
+    "Sdata" : [
+        {
+          "id": "Sdata1",
+          "title": "50% Off For Your First Shopping",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+          "img": "imges/SlideCard/slide-1.png"
+        },
+        {
+          "id": "Sdata2",
+          "title": "50% Off For Your First Shopping",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+          "img": "imges/SlideCard/slide-2.png"
+        },
+        {
+          "id": "Sdata3",
+          "title": "50% Off For Your First Shopping",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+          "img": "imges/SlideCard/slide-3.png"
+        },
+        {
+          "id": "Sdata4",
+          "title": "50% Off For Your First Shopping",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+          "img": "imges/SlideCard/slide-4.png"
+        }
+      ],
+      "asideData":[
+        {
+          "id":"cat1",
+          "img":"imges/aside/cat-1.webp",
+          "title":"#Categories"
+        },
+        {
+          "id":"cat2",
+          "img":"imges/aside/cat-2.webp",
+          "title":"#Discounts"
+        },
+        {
+          "id":"cat3",
+          "img":"imges/aside/cat-3.webp",
+          "title":"#Flash"
+        },
+        {
+          "id":"cat4",
+          "img":"imges/aside/cat1.png",
+          "title":"#Arrivals"
+        },
+        {
+          "id":"cat5",
+          "img":"imges/aside/cat2.png",
+          "title":"#Mobile"
+        },
+        {
+          "id":"cat7",
+          "img":"imges/aside/cat4.png",
+          "title":"#Us"
+        },
+        {
+          "id":"cat8",
+          "img":"imges/aside/cat5.png",
+          "title":"Pets"
+        },
+        {
+          "id":"cat9",
+          "img":"imges/aside/cat6.png",
+          "title":"Toys"
+        },
+        {
+          "id":"cat10",
+          "img":"imges/aside/cat7.png",
+          "title":"Groceries"
+        },
+        {
+          "id":"cat11",
+          "img":"imges/aside/cat8.png",
+          "title":"Books"
+        }
+      ],
+      "flashData": [
+        {
+          "id": 1,
+          "discount": 50,
+          "img": "imges/flash/flash-1.webp",
+          "name": "Shoes",
+          "price": 100
+        },
+        {
+          "id": 2,
+          "discount": 40,
+          "img": "imges/flash/flash-2.webp",
+          "name": "Watch",
+          "price": 20
+        },
+        {
+          "id": 3,
+          "discount": 40,
+          "img": "imges/flash/flash-3.webp",
+          "name": "Smart Mobile Black",
+          "price": 200
+        },
+        {
+          "id": 4,
+          "discount": 40,
+          "img": "imges/flash/flash-4.webp",
+          "name": "Smart Watch Black",
+          "price": 50
+        },
+        {
+          "id": 5,
+          "discount": 50,
+          "img": "imges/flash/flash-5.webp",
+          "name": "Shoes",
+          "price": 100
+        }
+      ],
+      "categories" :[
+          {
+            "id":"top 1",
+            "title":"Head phone",
+            "img":"imges/categories/top-1.webp"
+          },
+          {
+            "id":"top 2",
+            "title":"Watch",
+            "img":"imges/categories/top-2.webp"
+          },
+          {
+            "id":"top 3",
+            "title":"Glasses",
+            "img":"imges/categories/top-3.webp"
+          },
+          {
+            "id":"top 4",
+            "title":"Head phone",
+            "img":"imges/categories/top-1.webp"
+          },
+          {
+            "id":"top 5",
+            "title":"Watch",
+            "img":"imges/categories/top-2.webp"
+          },
+          {
+            "id":"top 6",
+            "title":"Glasses",
+            "img":"imges/categories/top-3.webp"
+          }
+      ],
+      "arrivals":[
+        {
+          "id":"arr-1",
+          "img":"imges/arrivals/arrivals1.webp"
+        },
+        {
+          "id":"arr-2",
+          "img":"imges/arrivals/arrivals2.webp"
+        },
+        {
+          "id":"arr-3",
+          "img":"imges/arrivals/arrivals3.webp"
+        },
+        {
+          "id":"arr-4",
+          "img":"imges/arrivals/arrivals4.webp"
+        },
+        {
+          "id":"arr-5",
+          "img":"imges/arrivals/arrivals5.webp"
+        },
+        {
+          "id":"arr-6",
+          "img":"imges/arrivals/arrivals6.webp"
+        }
+      ],
+      "discount":[
+        {
+          "id": "dis1",
+          "img": "imges/discounts/discount-1.webp",
+          "name": "H phone",
+          "price": 350
+        },
+        {
+          "id": "dis2",
+          "img": "imges/discounts/discount-2.webp",
+          "name": "Tv",
+          "price": 1370
+        },
+        {
+          "id": "dis3",
+          "img": "imges/discounts/discount-3.webp",
+          "name": "Ps4",
+          "price": 4500
+        },
+        {
+          "id": "dis4",
+          "img": "imges/discounts/discount-4.webp",
+          "name": "Security",
+          "price": 10000
+        },
+        {
+          "id": "dis5",
+          "img": "imges/discounts/discount-5.webp",
+          "name": "heater",
+          "price": 950
+        },
+        {
+          "id": "dis6",
+          "img": "imges/discounts/discount-6.webp",
+          "name": "kitchen",
+          "price": 22000
+        },
+        {
+          "id": "dis7",
+          "img": "imges/discounts/discount-7.webp",
+          "name": "Ranasonic",
+          "price": 1700
+        },
+        {
+          "id": "dis8",
+          "img": "imges/discounts/discount-8.webp",
+          "name": "Pune HD",
+          "price": 300
+        },
+        {
+          "id": "dis9",
+          "img": "imges/discounts/discount-7.webp",
+          "name": "CCTV",
+          "price": 80
+        }
+      ],
+      "mobileFilter":[
+        {
+          "id":"mob-filter1",
+          "img":"imges/mobileFilter/mob-1.jpg",
+          "brand":"Shawmi",
+          "title":"Shawmi"
+        },
+        {
+          "id":"mob-filter2",
+          "img":"imges/mobileFilter/mob-2.jpg",
+          "brand":"Infenix",
+          "title":"Infenix"
+        },
+        {
+          "id":"mob-filter3",
+          "img":"imges/mobileFilter/mob-3.jpg",
+          "brand":"Realme",
+          "title":"Realme"
+        },
+        {
+          "id":"mob-filter4",
+          "img":"imges/mobileFilter/mob-4.jpg",
+          "brand":"Hwawi",
+          "title":"Hwawi"
+        },
+        {
+          "id":"mob-filter5",
+          "img":"imges/mobileFilter/mob-5.jpg",
+          "brand":"Samsung",
+          "title":"Samsung"
+        },
+        {
+          "id":"mob-filter6",
+          "img":"imges/mobileFilter/mob-7.jpg",
+          "brand":"Iphone",
+          "title":"Iphone"
+        }
+      ],
+      "mobileList":[
+        {
+          "id":"mob-list1",
+          "img":"imges/mobileList/shops-1.webp",
+          "name":"aer pod",
+          "brand":"Shawmi all",
+          "price":800
+        },
+        {
+          "id":"mob-list2",
+          "img":"imges/mobileList/shops-2.webp",
+          "name":"Glaxy 3",
+          "brand":"Samsung all",
+          "price":2300
+        },
+        { 
+          "id":"mob-list3",
+          "img":"imges/mobileList/shops-3.webp",
+          "name":"R cover",
+          "brand":"Reno all",
+          "price":50
+        },
+        {
+          "id":"mob-list4",
+          "img":"imges/mobileList/shops-4.webp",
+          "name":"Iphone x",
+          "brand":"Iphone all",
+          "price":10000
+        },
+        {
+          "id":"mob-list11",
+          "img":"imges/mobileList/shops-11.webp",
+          "name":"A0 core",
+          "brand":"Hwawi all",
+          "price":2150
+        },
+        {
+          "id":"mob-list5",
+          "img":"imges/mobileList/shops-5.webp",
+          "name":"aer pod",
+          "brand":"Iphone all",
+          "price":3000
+        },
+        {
+          "id":"mob-list6",
+          "img":"imges/mobileList/shops-6.webp",
+          "name":"H phone",
+          "brand":"Samsung all",
+          "price":250
+        },
+        {
+          "id":"mob-list7",
+          "img":"imges/mobileList/shops-7.webp",
+          "name":"not 11",
+          "brand":"Infenix all",
+          "price":2500
+        },
+        {
+          "id":"mob-list8",
+          "img":"imges/mobileList/shops-8.webp",
+          "name":"x 9",
+          "brand":"Realme all",
+          "price":200
+        },
+        {
+          "id":"mob-list9",
+          "img":"imges/mobileList/shops-9.webp",
+          "name":"aer pod",
+          "brand":"Shawmi all", 
+          "price":500
+        },
+        {
+          "id":"mob-list10",
+          "img":"imges/mobileList/shops-10.webp",
+          "name":"A0 core",
+          "brand":"Samsung all",
+          "price":3000
+        },
+        {
+          "id":"mob-list-two-1",
+          "img":"imges/mobileList/mob-1.png",
+          "name":"Hot 11",
+          "brand":"Infenix all",
+          "price":2300
+        },
+        {
+          "id":"mob-list-two-2",
+          "img":"imges/mobileList/mob-2.png",
+          "name":"Reno 6",
+          "brand":"Reno all",
+          "price":4200
+        },
+        {
+          "id":"mob-list-two-3",
+          "img":"imges/mobileList/mob-3.jpg",
+          "name":"Rm 9i",
+          "brand":"Realme all",
+          "price":3700
+        },
+        {
+          "id":"mob-list-two-4",
+          "img":"imges/mobileList/mob-4.jpg",
+          "name":"A2",
+          "brand":"Hwawi all",
+          "price":2900
+        },
+        {
+          "id":"mob-list-two-5",
+          "img":"imges/mobileList/mob-5.jpg",
+          "name":"Rm 7",
+          "brand":"Realme all",
+          "price":2900
+        }
+      ]
+
+}
